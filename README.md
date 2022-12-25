@@ -7,6 +7,7 @@
 3. Create React App
 4. Create GitHub Repo
 5. List Products
+6. Add Routing
 
 ### Time Stamps End
 
