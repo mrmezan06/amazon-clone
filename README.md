@@ -8,6 +8,7 @@
 4. Create GitHub Repo
 5. List Products
 6. Add Routing
+7. Create Node Server
 
 ### Time Stamps End
 
